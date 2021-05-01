@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "Mini_Projects_2.ipynb",
+      "name": "Copy of Mini_Projects_2.ipynb",
       "provenance": [],
       "include_colab_link": true
     },
@@ -56,7 +56,7 @@
         "for minute in range(10,31,5):\n",
         "  print('the calories that you have burnt in ',minute,'is',format(4.2*minute,'.1f'),'calories')"
       ],
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -111,7 +111,7 @@
         "  distance =(h)*speed\n",
         "  print(h,'\\t\\t',distance)"
       ],
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -167,7 +167,7 @@
         "  f = 9/5 *c +32\n",
         "  print(c,'\\t',format(f,\".1f\"))"
       ],
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -237,7 +237,7 @@
         "print()\n",
         "print('the factorial of', integer,'is',factorial)"
       ],
-      "execution_count": 90,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -276,7 +276,7 @@
         "for i in range(6,0,-1):\n",
         "  print(i*\"*\")"
       ],
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -305,7 +305,7 @@
         "for i in range(6):\n",
         "  print(\"#\"+ i*\" \"+\"#\")"
       ],
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -376,7 +376,7 @@
         "\n",
         "main()          "
       ],
-      "execution_count": 88,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -430,7 +430,7 @@
         "main()\n",
         "    "
       ],
-      "execution_count": 71,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
